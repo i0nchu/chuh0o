@@ -1,0 +1,22 @@
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+local-data/
+local-data-*/
+.tmp/
+.pyinstaller/
+qa-output/
+VALIDATION.md
+
+# Executables, native binaries, installers, and release archives
+*.exe
+*.dll
+*.msi
+*.msix
+*.zip

@@ -1,0 +1,8 @@
+{
+  "scale": 0.75,
+  "speed": 45,
+  "tick_fps": 10,
+  "mode": "auto",
+  "click_through": false,
+  "auto_hide_fullscreen": true
+}
